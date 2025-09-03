@@ -1,0 +1,4 @@
+__pycache__/   # ignore Python cache files (.pyc, etc.)
+build/         # ignore build folder (PyInstaller output)
+dist/          # ignore dist folder (PyInstaller output)
+*.spec         # ignore .spec files (PyInstaller configs)
